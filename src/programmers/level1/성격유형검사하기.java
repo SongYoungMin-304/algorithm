@@ -35,6 +35,8 @@ public class 성격유형검사하기 {
 
 
 
+
+    ////sdfdsfs
     // "AN CF MJ RT NA" //
 
     //  AN 5  N 1점
