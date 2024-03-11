@@ -1,4 +1,4 @@
-package programmers.study_2024.level0;
+package programmers.study_2024.해시;
 
 import java.util.Arrays;
 import java.util.HashSet;
