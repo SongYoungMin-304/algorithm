@@ -1,10 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3470" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4014" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OAqP77FaALvUlWws38ut-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sYjLwb89M_JXzWONvZo6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1655" y="3050" width="1160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1655" y="2640" width="1160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OAqP77FaALvUlWws38ut-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1175" y="2670" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gF76eFgyqbBCIJNoRSuw-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -273,7 +279,7 @@
           <mxGeometry x="130" y="960" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFk6lLKQhX85Un4g1Y9U-12" value="people" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry y="960" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1625" y="3090" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFk6lLKQhX85Un4g1Y9U-13" value="people" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="1310" width="30" height="60" as="geometry" />
@@ -1192,28 +1198,28 @@
             <mxPoint x="-810" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-1" value="토스페이먼츠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-1" value="토스페이먼츠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1135" y="2700" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-2" value="나이스 평가정보" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-2" value="나이스 평가정보" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1025" y="2700" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-4" value="네이버 페이" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-4" value="네이버 페이" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-915" y="2700" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-5" value="카카오페이" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-5" value="카카오페이" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-805" y="2700" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-10" value="주문스키마" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-10" value="주문스키마" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1565" y="2830" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-11" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-11" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1565" y="2865" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-12" value="pgClosingBatch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-12" value="pgClosingBatch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1445" y="2860" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1465" y="2910" as="sourcePoint" />
             <mxPoint x="-1465" y="2880" as="targetPoint" />
@@ -1222,19 +1228,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAqP77FaALvUlWws38ut-12">
+        <mxCell id="OAqP77FaALvUlWws38ut-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OAqP77FaALvUlWws38ut-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1255" y="2865" as="sourcePoint" />
             <mxPoint x="-1165" y="2895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-15" value="pgClosing" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-15" value="pgClosing" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1155" y="2865" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-16" value="pgCompareBatch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-16" value="pgCompareBatch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1005" y="2855" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1025" y="2905" as="sourcePoint" />
             <mxPoint x="-1025" y="2875" as="targetPoint" />
@@ -1243,38 +1249,86 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-18" value="pgCompare" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-18" value="pgCompare" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-705" y="2860" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-885" y="2874.5" as="sourcePoint" />
             <mxPoint x="-725" y="2874.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.449;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OAqP77FaALvUlWws38ut-21">
+        <mxCell id="OAqP77FaALvUlWws38ut-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.449;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OAqP77FaALvUlWws38ut-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-950" y="2804.5" as="sourcePoint" />
             <mxPoint x="-950" y="2850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-885" y="2900" as="sourcePoint" />
             <mxPoint x="-725" y="2900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;step2) 수집된 PG 데이터로부터 PgCompare 데이터 세팅&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-26" value="&lt;div style=&quot;text-align: center;&quot;&gt;step2) 수집된 PG 데이터로부터 PgCompare 데이터 세팅&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1055" y="2930" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;step1) 주문스키마로부터 결제 수단이 PG인 데이터 수집&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;step1) 주문스키마로부터 결제 수단이 PG인 데이터 수집&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1335" y="2940" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-28" value="&lt;div style=&quot;text-align: center;&quot;&gt;step3) pg사로부터의 통신을 통해서 결제 데이터 pgCompare에 적재&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-28" value="&lt;div style=&quot;text-align: center;&quot;&gt;step3) pg사로부터의 통신을 통해서 결제 데이터 pgCompare에 적재&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-950" y="2790" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OAqP77FaALvUlWws38ut-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;step4) Pg대사 처리(일치, 불일치)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OAqP77FaALvUlWws38ut-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;step4) Pg대사 처리(일치, 불일치)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-725" y="1125" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-1" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="3100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-5" value="&lt;div style=&quot;text-align: center;&quot;&gt;PG시스템&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1655" y="2610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-7" value="people" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="970" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-8" value="Kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="3290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sYjLwb89M_JXzWONvZo6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1585" y="3130" as="sourcePoint" />
+            <mxPoint x="-1505" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-10" value="&lt;div style=&quot;&quot;&gt;step1) 고객 C/S인입&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-&amp;gt; 핸드폰 소액결제 취소, 부분 취소, 취소수수료 정정 케이스인 경우 현급입금으로 처리&lt;br&gt;-&amp;gt; 고객이 돈을 입금을 해줘야 하는 상황 발생(전체 취소 이후 일부 수수료 전달&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1575" y="3150" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sYjLwb89M_JXzWONvZo6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1580" y="3319.5" as="sourcePoint" />
+            <mxPoint x="-955" y="3320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1145" y="3320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-12" value="&lt;div style=&quot;&quot;&gt;step2) 주문 kafka를 통해서 데이터 가져와서 db에 인입&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="3330" width="285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-13" value="step3) 담당자 처리 프로세스&lt;br&gt;-&amp;gt; 출금의 경우 c/s 승인 이후, 자금팀 승인(지금 완료됨)&lt;br&gt;-&amp;gt; 입금의 경우 자금팀에서 정상 입금 확인 체크 후 승인" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-806.25" y="3170" width="272.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-15" value="&lt;div style=&quot;text-align: center;&quot;&gt;계좌 입출금 시스템&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1655" y="3020" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-25" value="기타 결제수단" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1655" y="3440" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-26" value="베네피아 시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="3500" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sYjLwb89M_JXzWONvZo6-27" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="3520" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
