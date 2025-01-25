@@ -21,6 +21,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-7" value="거래마감배치" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-8" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
