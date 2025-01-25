@@ -1,9 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="페이지-1" id="YBuTaTdn4G9a9hjZ0l4r">
-    <mxGraphModel dx="2528" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1555" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="260" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="yZ-H9fM-TBWwMjj3-lVv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-22" target="yZ-H9fM-TBWwMjj3-lVv-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,6 +80,79 @@
         </mxCell>
         <mxCell id="yZ-H9fM-TBWwMjj3-lVv-24" value="대사 DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="990" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-26" target="yZ-H9fM-TBWwMjj3-lVv-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="168" y="520" />
+              <mxPoint x="168" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-26" value="고객센터" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-38" value="cms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-39" value="cms-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="490" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-40" value="계좌입출금 DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-41" target="yZ-H9fM-TBWwMjj3-lVv-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-41" value="CS 시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-47" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="340" y="612.5" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-48" value="transaction-consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="615" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="675" as="sourcePoint" />
+            <mxPoint x="479" y="625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="479" y="675" />
+              <mxPoint x="429" y="665" />
+              <mxPoint x="429" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yZ-H9fM-TBWwMjj3-lVv-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="644.62" as="sourcePoint" />
+            <mxPoint x="740" y="644.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-54" value="채널링 API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="775" width="260" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-56" value="Reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="795" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-59" value="Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="882.5" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-60" value="Writer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="970" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-61" value="계좌입출금 DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="960" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
