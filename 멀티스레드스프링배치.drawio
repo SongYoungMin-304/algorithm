@@ -21,11 +21,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-7" target="yZ-H9fM-TBWwMjj3-lVv-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yZ-H9fM-TBWwMjj3-lVv-7" value="거래마감배치" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-8" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-8" value="거래마감DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;주문 DB 로 부터 결제수단이 PG인 데이터 수집&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="350" as="sourcePoint" />
+            <mxPoint x="740" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="350" />
+              <mxPoint x="690" y="340" />
+              <mxPoint x="690" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-16" value="대사배치" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
