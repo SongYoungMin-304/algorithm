@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="페이지-1" id="YBuTaTdn4G9a9hjZ0l4r">
-    <mxGraphModel dx="2022" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-22" target="yZ-H9fM-TBWwMjj3-lVv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="400" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="yZ-H9fM-TBWwMjj3-lVv-1" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="60" height="80" as="geometry" />
         </mxCell>
@@ -46,8 +52,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yZ-H9fM-TBWwMjj3-lVv-16" target="yZ-H9fM-TBWwMjj3-lVv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yZ-H9fM-TBWwMjj3-lVv-16" value="대사배치" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-17" value="토스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-18" value="나이스평가정보" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-20" value="네이버 페이" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-21" value="카카오페이" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ-H9fM-TBWwMjj3-lVv-24" value="대사 DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="990" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
